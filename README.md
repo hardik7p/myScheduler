@@ -1,4 +1,4 @@
-# process_scheduler
+# Process Scheduler
 
 Simulates process scheduling mechanism in cpu.
 Its a Visual C++ project.
