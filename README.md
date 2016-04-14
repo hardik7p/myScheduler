@@ -22,4 +22,6 @@ One can compare the results in terms of
  - avg turn around time
 
 Graphs are normalized to fit in small place.
-Also one can compare the effect of I/O calls in a process against various algorithms.
+
+One more functionality is to compare the effect of I/O calls in a process against various algorithms.
+This will generate processes with varying I/O call levels and simulate against given algorithm and compare various parameters.
