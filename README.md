@@ -20,5 +20,6 @@ One can compare the results in terms of
  - throughput
  - avg ready wait time (wait time in ready state)
  - avg turn around time
- 
+
+Graphs are normalized to fit in small place.
 Also one can compare the effect of I/O calls in a process against various algorithms.
